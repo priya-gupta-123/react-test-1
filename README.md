@@ -1,3 +1,22 @@
+### Screenshots
+
+#### Default View
+![ScreenShot](https://raw.githubusercontent.com/priya-gupta-123/react-test-1/master/screenshots/1.png)
+
+#### Validation View
+![ScreenShot](https://raw.githubusercontent.com/priya-gupta-123/react-test-1/master/screenshots/2.png)
+
+#### Datepicker View
+![ScreenShot](https://raw.githubusercontent.com/priya-gupta-123/react-test-1/master/screenshots/3.png)
+
+#### Loading View
+![ScreenShot](https://raw.githubusercontent.com/priya-gupta-123/react-test-1/master/screenshots/4.png)
+
+#### Success View
+![ScreenShot](https://raw.githubusercontent.com/priya-gupta-123/react-test-1/master/screenshots/5.png)
+
+### Task
+
 Using React Hooks and pure Functional Components, create a simple registration form
 that accepts the following from a user
 Course (Radio)
